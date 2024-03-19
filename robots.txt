@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://klear.pages.dev/sitemap.xml
