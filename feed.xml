@@ -3,7 +3,7 @@
     <title>Yassine Klear</title>
     <link href="https://klear.pages.dev/feed.xml" rel="self" />
     <link href="https://klear.pages.dev" />
-    <updated>2024-07-24T19:21:16+01:00</updated>
+    <updated>2024-08-08T09:37:04+01:00</updated>
     <author>
         <name>Klear</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://klear.pages.dev/the-islamic-economic-system-how-to-make-tunisia-a-superpower/"/>
         <id>https://klear.pages.dev/the-islamic-economic-system-how-to-make-tunisia-a-superpower/</id>
 
-        <updated>2024-06-28T11:52:20+01:00</updated>
+        <updated>2024-08-03T12:44:25+01:00</updated>
             <summary>
                 <![CDATA[
                     Ever heard of this? Money is complicated. The financial system is so&hellip;
@@ -367,8 +367,9 @@ Just make sure that these stores are clearly separated from the premises of the 
         </author>
         <link href="https://klear.pages.dev/creating-wonder-less-a-chorme-extension-to-limit-tabs-opened/"/>
         <id>https://klear.pages.dev/creating-wonder-less-a-chorme-extension-to-limit-tabs-opened/</id>
+            <category term="Design"/>
 
-        <updated>2024-07-24T19:21:16+01:00</updated>
+        <updated>2024-07-31T18:42:49+01:00</updated>
             <summary>
                 <![CDATA[
                     Wonder-less is a Chrome extension that limits the tabs opened. I noticed&hellip;
@@ -384,7 +385,11 @@ Just make sure that these stores are clearly separated from the premises of the 
 <p>Now the user can have multiple options to increase the flexibility and not limit completely the user, avoiding getting frustrated with the app. While not completely limiting the user, the Chrome extension should always keep the user mindful of the number of tabs opened and show alerts once that number is reached.</p>
 <figure class="post__image post__image--wide"><img loading="lazy"  src="https://klear.pages.dev/media/posts/6//Settings.png" alt="" width="1262" height="1041" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://klear.pages.dev/media/posts/6//responsive/Settings-xs.png 320w ,https://klear.pages.dev/media/posts/6//responsive/Settings-sm.png 480w ,https://klear.pages.dev/media/posts/6//responsive/Settings-md.png 768w ,https://klear.pages.dev/media/posts/6//responsive/Settings-xl.png 1024w"></figure>
 <p> </p>
-<p>I have kept the maximum number of tabs that can be opened to 20. Because giving the user flexibility on that aspect defies the extension's purpose. <br>If for some reason, the user wants to go over that limit, they can deactivate the extension.</p>
+<p>I have kept the maximum number of tabs that can be opened to 20. Because giving the user flexibility on that aspect defies the extension's purpose. <br>If for some reason, the user wants to go over that limit, they can deactivate the extension.<br><br><br>This project did not progress beyond the design stage due to the release of Chrome's V3 update, which restricts access to certain features, including the ability to automatically close tabs.<br><br>But as I said in the Maker's Mindset blog: <br><br></p>
+<blockquote>
+<p><strong>If you fail, that counts as done.</strong> </p>
+</blockquote>
+<p> </p>
 <p> </p>
             ]]>
         </content>
@@ -398,7 +403,7 @@ Just make sure that these stores are clearly separated from the premises of the 
         <id>https://klear.pages.dev/the-making-of-safhaa/</id>
         <media:content url="https://klear.pages.dev/media/posts/5/Peliminary-version.png" medium="image" />
 
-        <updated>2024-03-18T16:57:09+01:00</updated>
+        <updated>2024-08-03T12:44:13+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://klear.pages.dev/media/posts/5/Peliminary-version.png" alt="" />
@@ -453,7 +458,9 @@ Just make sure that these stores are clearly separated from the premises of the 
 <p> </p>
 <p>- Focus timer simpler Pomodoro technique.</p>
 <p>I have always liked focused sprints. however, I find that I only use them to make me aware of the time I am spending, not to take a break. <br>Usually, when I use the Pomodoro technique, I just get distracted when the timer goes and "reminds me to take a break". <br>I work in 15-minute sprints, and that keeps me focused on the task at hand, if the timer goes off and I find myself distracted, I get back to the main thing. I take breaks when I feel like I need it, not systematically. we are not robots.<br><br></p>
-<p> </p>
+<p>I've put the design as open-source for everybody to improve or develop as an actual chrome extension:<br><br><br></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://klear.pages.dev/media/posts/5/Figma-publication-cover-photo-1.png" alt="" width="1920" height="1080" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://klear.pages.dev/media/posts/5/responsive/Figma-publication-cover-photo-1-xs.png 320w ,https://klear.pages.dev/media/posts/5/responsive/Figma-publication-cover-photo-1-sm.png 480w ,https://klear.pages.dev/media/posts/5/responsive/Figma-publication-cover-photo-1-md.png 768w ,https://klear.pages.dev/media/posts/5/responsive/Figma-publication-cover-photo-1-xl.png 1024w"></figure>
+<p><a href="https://www.figma.com/community/file/1401528128521396126/safhaa-design-system">Figma Community Resource</a><br><br>https://www.figma.com/community/file/1401528128521396126/safhaa-design-system</p>
             ]]>
         </content>
     </entry>
@@ -563,7 +570,7 @@ Just make sure that these stores are clearly separated from the premises of the 
         <id>https://klear.pages.dev/fasting-6-shawaal-tracking/</id>
             <category term="Islam"/>
 
-        <updated>2024-03-11T14:34:02+01:00</updated>
+        <updated>2024-08-08T09:37:04+01:00</updated>
             <summary>
                 <![CDATA[
                     the Messenger of Allah (peace and blessings of Allah be upon him)&hellip;
@@ -587,15 +594,15 @@ Just make sure that these stores are clearly separated from the premises of the 
         <id>https://klear.pages.dev/what-i-do-why-should-you-read-this-blog/</id>
             <category term="Learning"/>
 
-        <updated>2024-02-28T17:55:42+01:00</updated>
+        <updated>2024-08-08T09:34:52+01:00</updated>
             <summary>
                 <![CDATA[
-                    Hello, this is YB, I'll share everything I have done and the&hellip;
+                    Hello, this is YK, I am a multipotentiolite (polymath) . I love&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><strong>Hello, this is YB, I'll share everything I have done and the things I am learning. </strong><strong>Everything Design, Coding, Sports and Islam.</strong></p>
+                <p><strong>Hello, this is YK, I am a multipotentiolite (polymath) . I love learning new stuff and making useful things.<br>I'll share everything I have done and the things I am learning. </strong><strong>Everything Design, Coding, Sports, Architecture and Islam.</strong></p>
 <p><!-- notionvc: 397ee5a1-b33e-42a1-8d08-7d532a662590 --></p>
             ]]>
         </content>
