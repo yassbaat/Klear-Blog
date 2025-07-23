@@ -10,18 +10,6 @@
     },
     "items": [
         {
-            "id": "https://yasine.net/introducing-gaza-coin-the-first-truly-islamic-cryptocurrency-concept/",
-            "url": "https://yasine.net/introducing-gaza-coin-the-first-truly-islamic-cryptocurrency-concept/",
-            "title": "Introducing Gaza Coin. The first truly Islamic Cryptocurrency Concept. ",
-            "author": {
-                "name": "Yasine"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-07-23T20:51:48+01:00",
-            "date_modified": "2025-07-23T20:51:48+01:00"
-        },
-        {
             "id": "https://yasine.net/thoughts-on-ai-and-what-to-do-to-stay-relevant/",
             "url": "https://yasine.net/thoughts-on-ai-and-what-to-do-to-stay-relevant/",
             "title": "Is AI Replacing Us Thinkers? How I Solved This scary Question After Pausing Everything for a month!",
@@ -155,6 +143,22 @@
             ],
             "date_published": "2024-03-13T12:53:16+01:00",
             "date_modified": "2024-03-14T10:37:14+01:00"
+        },
+        {
+            "id": "https://yasine.net/12-column-grid-system-illustrator-freebie/",
+            "url": "https://yasine.net/12-column-grid-system-illustrator-freebie/",
+            "title": "The Grid System. Illustrator Freebie.",
+            "summary": "The column grid system is the key to consistent designs.💻 Before I&hellip;",
+            "content_html": "<p>The column grid system is the key to consistent designs.💻</p>\n<p>Before I have started using it, I felt that it was constraining and thought it was not worth it to use it. <br><br>However once I saw the dramatic improvements I always start my design process with it. <br><br>Whether it's a website, a mobile app or even a poster or minimalistic illustration (like the 'Minima' wallpaper set I'm working on which I am super excited about).  </p>\n<p>The grid system gives structure to the design, it's more than making allignments easier, it makes the whole design consistent and gives appropriate breathing room for elements.</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://yasine.net/media/posts/3/1920X1080.png\" alt=\"\" width=\"1921\" height=\"1081\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://yasine.net/media/posts/3/responsive/1920X1080-xs.png 320w ,https://yasine.net/media/posts/3/responsive/1920X1080-sm.png 480w ,https://yasine.net/media/posts/3/responsive/1920X1080-md.png 768w ,https://yasine.net/media/posts/3/responsive/1920X1080-xl.png 1024w\"><figcaption>A screen designed using the 12 column grid system.</figcaption></figure>\n<p>Here's what's under the hood:</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://yasine.net/media/posts/3/1920X1080-2.png\" alt=\"\" width=\"1921\" height=\"1081\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://yasine.net/media/posts/3/responsive/1920X1080-2-xs.png 320w ,https://yasine.net/media/posts/3/responsive/1920X1080-2-sm.png 480w ,https://yasine.net/media/posts/3/responsive/1920X1080-2-md.png 768w ,https://yasine.net/media/posts/3/responsive/1920X1080-2-xl.png 1024w\"><figcaption>Visible 12 Colomn Grid in action. </figcaption></figure>\n<p> </p>\n<p>I called it the \"Klear Grid\".  You can download it from here.</p>\n<p class=\"msg--highlight   msg--info\"><a href=\"https://drive.google.com/file/d/1hm0VdB3XOfSglyidC6LD3vIzDMxPuUBv/view?usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn--dark\">Download Illustrator File. </a></p>\n<address>👇</address>\n<p>What you will find inside: 📦<br><br>- Expanation of how you can use the grid system in your designs.  📐<br>- Demos and inspiration of web pages designed using the grid system ( and they look fantastic 🌟)<br>- Full visible grid + Grid using Guides for ease of use. 🔍<br>- Multiple screen sizes. [ desktop + tablet + phone ]  📱<br>- Tips and instructions on how to use this system + shortcuts!  ⌨️✨</p>\n<p>Happy sturctured designing!</p>\n<p class=\"msg--highlight   msg--info\"><a href=\"https://drive.google.com/file/d/1hm0VdB3XOfSglyidC6LD3vIzDMxPuUBv/view?usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn--dark\">Download Illustrator File. </a></p>\n<address><span style=\"color: #95a5a6;\">https://drive.google.com/file/d/1hm0VdB3XOfSglyidC6LD3vIzDMxPuUBv/view?usp=sharing</span></address>",
+            "image": "https://yasine.net/media/posts/3/Thumbnail.png",
+            "author": {
+                "name": "Yasine"
+            },
+            "tags": [
+                   "Design"
+            ],
+            "date_published": "2024-03-12T18:10:43+01:00",
+            "date_modified": "2024-03-13T15:37:47+01:00"
         }
     ]
 }
